@@ -1,0 +1,5 @@
+[console_scripts]
+botcast = cli.cli:botcast
+mbotcast = cli.cli:mbotcast
+mbotcast-init = cli.cli:init
+
